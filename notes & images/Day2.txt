@@ -1,0 +1,67 @@
+1. Create Repos (checked)
+1.1 install git (https://git-scm.com/downloads)
+2. working with git / BitBucket 
+3. BitBucket + Jira + Confluence / GitHub 
+	Bash - Git (local)
+SCM
+	CVS, SVS, VSS etc 
+	
+1. 
+> git init (current folder will become git folder )
+> git init some-folder 
+
+2. 
+git clone https://tools.publicis.sapient.com/bitbucket/scm/psixt/<name>.git
+
+3. git config user.name naveen
+4. git config user.email llid@ps.com
+
+> git log -n <limit> --oneline 
+> git log --grep='first' --oneline
+
+
+git init 
+git add . (all files)
+git add <filename> (specific)
+git commit -m "comment "
+
+
+git branch <branchName>
+git checkout <branchName>
+
+to merge 
+git checkout master
+git merge branchName
+
+
+1. clone the repo 
+2. seed all the work which is done by you to bitbucket 
+3. create 2 branch from terminal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
