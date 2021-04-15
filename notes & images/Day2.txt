@@ -95,6 +95,116 @@ http://127.0.0.1:5500/html-css-works/html/D2-Ex4.html?text1=kumar&text2=kumar&us
 
 
 
+https://www.w3schools.com/tags/tag_input.asp
+
+
+
+
+
+
+Vendor 1 
+	TOC - Day wise plan 
+	Trainers - Profile/s
+		ReactJS - INR X  (per day / per hr)
+		Java - INR Y 
+		C/C++ - INR Z 
+		Salesforce - INR XY
+Vendor 2 
+	TOC - Day wise plan 
+	Trainers - Profile/s
+Vendor 3 
+	TOC - Day wise plan 
+	Trainers - Profile/s
+
+ReactJS 
+	TOC - Day wise plan 
+	Trainers - Profile 
+	Commercial 
+	Time 
+
+
+Call 
+
+
+
+
+
+
+
+Trainer - Naveen 
+
+Company 
+	Raja - super admin (costing/budgeting / calendar)
+		Swati (User)
+		Sangeeta (User)
+		Alok (User)
+		Nikita  (User)
+
+
+
+{
+  "title": "The title of your course",
+  "description": "Brief Description of the course",
+  "prerequisite": "Prerequisite for the course",
+  "outcome": "Outcome of the course",
+  "target": "Target audience of the course",
+  "duration": 10,
+  "outline": [
+    {
+      "topicName": "topic name",
+      "subTopics": [
+        {
+          "subTopic": "subtopic name"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+{
+  "entityId": "sapient-blr",
+  "fullname": "Naveen",
+  "email": "naveen@ps.com",
+  "password": "secret@123",
+  "pic": "Profile picture of the user"
+   
+}
+
+{
+  "message": "User signup successfully",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDc2YjRkZTU0MTJiNDAwMTc3NGQzM2IiLCJpYXQiOjE2MTgzOTIyODYsImV4cCI6MTYxODQwMzA4Nn0.tBzobZdmr8uk7hgE-ohsialVD7gSlND0TXXq8PpaHEw"
+}
+
+
+Teams & SME 
+Team of size 3 
+
+
+
+Team 1 (project-01)
+	Aishwarya 
+	Harsh
+	Ayush 
+Team 2 (project-02)
+	Navdeep 
+	Priyanka 
+	Manish 
+Team 3 (project-03)
+	Vikash 
+	Rishab 
+	Hinduja 
+Team 4 (project-04)
+	Deepesh 
+	Gautam 
+	Akhilesh 
+
+Sprint 1 & 2
+
+
 
 
 

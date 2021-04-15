@@ -32,7 +32,7 @@ body {
 a {
     color: black;
 }
-
+ 
 a:hover {
     color: blue;
     font-size: large;

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/style.min.css">
     <script type="text/javascript">
         function fnGetText() {
             username = document.myform.text1.value
@@ -21,7 +21,7 @@
 
     <form name="myform">
         <div>
-            <label for="Field 1">User Name</label>
+            <label for="Field1" id="field1">User Name</label>
             <input type="text" name="text1" class="txt-highlight" onblur="fnGetText()" required autofocus
                 autocomplete="off" />
         </div>
